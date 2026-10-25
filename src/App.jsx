@@ -5,6 +5,7 @@ import FormTambahProfil from "./komponen/FormTambahProfil";
 import DaftarProfil from "./komponen/DaftarProfil";
 import "./App.css";
 
+// Komponen utama aplikasi Jodohin untuk mengelola dan menampilkan profil.
 const dataAwalProfil = [
   {
     id: 1,
